@@ -1,0 +1,18 @@
+#food-style>li {
+    background-color: blue;
+}
+
+ul em {
+    color:red;
+}
+#food-style>li + ul {
+    background-color: purple;
+}
+
+.the-one {
+    background-color: yellow;
+}
+
+.the-one + li + li {
+    background-color: pink;
+}
